@@ -1,0 +1,65 @@
+{
+  "Disaster Preparedness": [
+    {
+      "id": "1",
+      "type": "Articles",
+      "title": "Preparing for Earthquakes",
+      "summary": "Learn how to prepare for earthquakes with simple steps.",
+      "image": "/images/content/earthquake7.jpg",
+      "duration": "5 min read",
+      "level": "Beginner",
+      "points": 10
+    },
+    {
+      "id": "2",
+      "type": "Videos",
+      "title": "Emergency Kit Essentials",
+      "summary": "A video guide to assembling an emergency kit.",
+      "image": "/images/content/emergency-kit.jpg",
+      "duration": "7 min watch",
+      "level": "Beginner",
+      "points": 20
+    },
+    {
+      "id": "3",
+      "type": "Animations",
+      "title": "Fire Safety Animation",
+      "summary": "Visual walkthrough of fire safety steps at home.",
+      "image": "/images/content/fire-safety.jpg",
+      "duration": "3 min watch",
+      "level": "Intermediate",
+      "points": 15
+    },
+    {
+      "id": "4",
+      "type": "Quizzes",
+      "title": "Safety Knowledge Quiz",
+      "summary": "Test your understanding of disaster preparedness.",
+      "image": "/images/content/safety-quiz.jpg",
+      "duration": "10 min quiz",
+      "level": "All",
+      "points": 25
+    },
+    {
+      "id": "5",
+      "type": "Games",
+      "title": "Earthquake Escape",
+      "summary": "Interactive game to practice evacuation skills.",
+      "image": "/images/content/earthquake-game.jpg",
+      "duration": "15 min play",
+      "level": "Advanced",
+      "points": 50,
+      "component": "EarthquakeEscape"
+    },
+    {
+      "id": "6",
+      "type": "Articles",
+      "title": "Flood Preparedness Tips",
+      "summary": "Important tips to prepare for floods.",
+      "image": "/images/content/flood.jpg",
+      "duration": "4 min read",
+      "level": "Intermediate",
+      "points": 15
+    }
+  ]
+}

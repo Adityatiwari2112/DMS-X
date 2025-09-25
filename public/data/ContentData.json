@@ -1,0 +1,337 @@
+{
+  "Earthquake Safety": [
+    {
+      "id": "eq-a1",
+      "type": "Articles",
+      "title": "Earthquake Preparedness 101",
+      "summary": "Basic guidelines for protecting yourself during tremors.",
+      "duration": "6 min read",
+      "level": "Beginner",
+      "points": 40,
+      "image": "/images/contentData/article1-earthquake.jpg"
+    },
+    {
+      "id": "eq-a2",
+      "type": "Articles",
+      "title": "Post-Earthquake First Aid",
+      "summary": "Learn how to handle injuries immediately after quakes.",
+      "duration": "12 min read",
+      "level": "Intermediate",
+      "points": 60,
+      "image": "/images/contentData/article2-earthquake.jpg"
+    },
+    {
+      "id": "eq-a3",
+      "type": "Articles",
+      "title": "Building Safer Homes",
+      "summary": "Engineering principles to make houses earthquake-resistant.",
+      "duration": "10 min read",
+      "level": "Advanced",
+      "points": 85,
+      "image": "/images/contentData/article3-earthquake.jpg"
+    },
+    {
+      "id": "eq-v1",
+      "type": "Videos",
+      "title": "Drop, Cover, Hold Drill",
+      "summary": "Step-by-step drill demonstration recorded in schools.",
+      "duration": "4:15",
+      "level": "Beginner",
+      "points": 50,
+      "image": "/images/contentData/video-eathquake.jpg"
+    },
+    {
+      "id": "eq-v2",
+      "type": "Videos",
+      "title": "Real Earthquake Footage & Lessons",
+      "summary": "Compilation of past earthquake events and learnings.",
+      "duration": "6:30",
+      "level": "Advanced",
+      "points": 80,
+      "image": "/images/contentData/video2-eathquake.jpg"
+    },
+    {
+      "id": "eq-an1",
+      "type": "Animations",
+      "title": "How Earthquakes Happen",
+      "summary": "3D animation explaining tectonic plate movements.",
+      "duration": "3:50",
+      "level": "Intermediate",
+      "points": 65,
+      "image": "/images/content/earthquake3.jpg"
+    },
+    {
+      "id": "eq-vr1",
+      "type": "Virtual Reality",
+      "title": "VR Earthquake Simulation",
+      "summary": "Experience a safe-room scenario during tremors in VR.",
+      "duration": "8:00",
+      "level": "Advanced",
+      "points": 90,
+      "image": "/images/content/earthquake4.jpg"
+    },
+    {
+      "id": "eq-g1",
+      "type": "Games",
+      "title": "Earthquake Escape Challenge",
+      "summary": "Navigate to safety quickly in this survival game.",
+      "duration": "Play • 10 min",
+      "level": "Beginner",
+      "points": 75,
+      "image": "/images/content/earthquake5.jpg"
+    },
+    {
+      "id": "eq-h1",
+      "type": "Historic Events",
+      "title": "2001 Gujarat Earthquake",
+      "summary": "A devastating event that shaped India’s disaster policies.",
+      "duration": "Case Study",
+      "level": "All",
+      "points": 70,
+      "image": "/images/content/earthquake14.jpg"
+    },
+    {
+      "id": "eq-f1",
+      "type": "Future Disasters",
+      "title": "Predicting Earthquake Hotspots",
+      "summary": "AI-based forecasting of potential future tremors.",
+      "duration": "Report • 9 min",
+      "level": "Advanced",
+      "points": 95,
+      "image": "/images/content/earthquake15.jpg"
+    },
+    {
+      "id": "eq-q1",
+      "type": "Quizzes",
+      "title": "Earthquake Safety Quiz",
+      "summary": "Test your knowledge of safe practices during quakes.",
+      "duration": "10 questions",
+      "level": "Beginner",
+      "points": 60,
+      "image": "/images/content/earthquake16.jpg"
+    },
+    {
+      "id": "eq-p1",
+      "type": "Podcasts",
+      "title": "Surviving Disasters",
+      "summary": "Experts discuss real earthquake survival stories.",
+      "duration": "22 min audio",
+      "level": "All",
+      "points": 50,
+      "image": "/images/content/earthquake17.jpg"
+    },
+    {
+      "id": "eq-ws1",
+      "type": "Workshops",
+      "title": "Community Earthquake Preparedness Workshop",
+      "summary": "Interactive session to train families on earthquake drills.",
+      "duration": "2 hrs",
+      "level": "All",
+      "points": 100,
+      "image": "/images/content/workshop1.jpg"
+    },
+    {
+      "id": "eq-sim1",
+      "type": "Simulations",
+      "title": "Aftershock Response Simulation",
+      "summary": "Practice coordinated response in a simulated aftershock scenario.",
+      "duration": "15 min",
+      "level": "Intermediate",
+      "points": 90,
+      "image": "/images/content/simulation1.jpg"
+    },
+    {
+      "id": "eq-cs1",
+      "type": "Case Studies",
+      "title": "Nepal Earthquake 2015 Response",
+      "summary": "Detailed analysis of response strategies and lessons learned.",
+      "duration": "Case Study • 12 min",
+      "level": "Advanced",
+      "points": 85,
+      "image": "/images/content/case1.jpg"
+    },
+    {
+      "id": "eq-ch1",
+      "type": "Challenges",
+      "title": "Evacuation Plan Challenge",
+      "summary": "Design and submit your own earthquake evacuation strategy.",
+      "duration": "Task • 20 min",
+      "level": "All",
+      "points": 120,
+      "image": "/images/content/challenge1.jpg"
+    },
+    {
+      "id": "eq-et1",
+      "type": "Expert Talks",
+      "title": "Seismologist Insights on Future Risks",
+      "summary": "A leading expert explains seismic hazards and safety tips.",
+      "duration": "30 min talk",
+      "level": "All",
+      "points": 70,
+      "image": "/images/content/expert1.jpg"
+    },
+    {
+      "id": "eq-lt1",
+      "type": "Live Tutoring",
+      "title": "1-on-1 Earthquake Preparedness Coaching",
+      "summary": "Book a live session with a disaster safety instructor.",
+      "duration": "45 min",
+      "level": "Beginner",
+      "points": 110,
+      "image": "/images/content/live1.jpg"
+    }
+  ],
+
+  "Fire Safety": [
+    {
+      "id": "fire-a1",
+      "type": "Articles",
+      "title": "Fire Prevention at Home",
+      "summary": "Practical tips to prevent household fires.",
+      "duration": "8 min read",
+      "level": "Beginner",
+      "points": 45,
+      "image": "/images/content/fire1.jpg"
+    },
+    {
+      "id": "fire-v1",
+      "type": "Videos",
+      "title": "Using Fire Extinguishers",
+      "summary": "Learn PASS technique for different extinguisher types.",
+      "duration": "5:20",
+      "level": "Beginner",
+      "points": 55,
+      "image": "/images/content/fire2.jpg"
+    },
+    {
+      "id": "fire-an1",
+      "type": "Animations",
+      "title": "How Fire Spreads",
+      "summary": "Visual explanation of fire spread dynamics indoors.",
+      "duration": "4:30",
+      "level": "Intermediate",
+      "points": 70,
+      "image": "/images/content/fire3.jpg"
+    },
+    {
+      "id": "fire-vr1",
+      "type": "Virtual Reality",
+      "title": "VR Fire Drill",
+      "summary": "Practice an evacuation in a VR simulation.",
+      "duration": "6:40",
+      "level": "Advanced",
+      "points": 85,
+      "image": "/images/content/fire4.jpg"
+    },
+    {
+      "id": "fire-g1",
+      "type": "Games",
+      "title": "Fire Escape Maze",
+      "summary": "Find your way to safety while avoiding smoke.",
+      "duration": "Play • 9 min",
+      "level": "Beginner",
+      "points": 60,
+      "image": "/images/content/fire5.jpg"
+    },
+    {
+      "id": "fire-h1",
+      "type": "Historic Events",
+      "title": "Great Fire of London",
+      "summary": "Lessons learned from one of history’s biggest fires.",
+      "duration": "Case Study",
+      "level": "All",
+      "points": 80,
+      "image": "/images/content/fire9.jpg"
+    },
+    {
+      "id": "fire-f1",
+      "type": "Future Disasters",
+      "title": "Rising Fire Risks from Climate Change",
+      "summary": "How global warming increases fire threats.",
+      "duration": "Report • 11 min",
+      "level": "Advanced",
+      "points": 95,
+      "image": "/images/content/fire10.jpg"
+    },
+    {
+      "id": "fire-q1",
+      "type": "Quizzes",
+      "title": "Fire Safety Quiz",
+      "summary": "Check how ready you are for fire emergencies.",
+      "duration": "12 questions",
+      "level": "Beginner",
+      "points": 55,
+      "image": "/images/content/fire11.jpg"
+    },
+    {
+      "id": "fire-p1",
+      "type": "Podcasts",
+      "title": "Firefighters on Duty",
+      "summary": "Interviews with frontline heroes fighting wildfires.",
+      "duration": "18 min audio",
+      "level": "All",
+      "points": 60,
+      "image": "/images/content/fire12.jpg"
+    },
+    {
+      "id": "fire-ws1",
+      "type": "Workshops",
+      "title": "Community Fire Safety Workshop",
+      "summary": "Hands-on training on how to prevent and respond to fires.",
+      "duration": "2 hrs",
+      "level": "All",
+      "points": 100,
+      "image": "/images/content/workshop2.jpg"
+    },
+    {
+      "id": "fire-sim1",
+      "type": "Simulations",
+      "title": "Fire Evacuation Drill Simulation",
+      "summary": "Simulated scenario to test evacuation readiness.",
+      "duration": "20 min",
+      "level": "Intermediate",
+      "points": 85,
+      "image": "/images/content/simulation2.jpg"
+    },
+    {
+      "id": "fire-cs1",
+      "type": "Case Studies",
+      "title": "California Wildfire Response",
+      "summary": "Analysis of firefighting strategies used in recent wildfires.",
+      "duration": "Case Study • 15 min",
+      "level": "Advanced",
+      "points": 90,
+      "image": "/images/content/case2.jpg"
+    },
+    {
+      "id": "fire-ch1",
+      "type": "Challenges",
+      "title": "Home Fire Safety Audit",
+      "summary": "Inspect your home and identify potential fire hazards.",
+      "duration": "Task • 25 min",
+      "level": "All",
+      "points": 115,
+      "image": "/images/content/challenge2.jpg"
+    },
+    {
+      "id": "fire-et1",
+      "type": "Expert Talks",
+      "title": "Firefighter Chief Talks Safety",
+      "summary": "A veteran firefighter explains prevention strategies.",
+      "duration": "28 min talk",
+      "level": "All",
+      "points": 75,
+      "image": "/images/content/expert2.jpg"
+    },
+    {
+      "id": "fire-lt1",
+      "type": "Live Tutoring",
+      "title": "Fire Extinguisher Usage Coaching",
+      "summary": "Book a live 1-on-1 with an instructor to practice extinguisher use.",
+      "duration": "40 min",
+      "level": "Beginner",
+      "points": 105,
+      "image": "/images/content/live2.jpg"
+    }
+  ]
+}
