@@ -1,2 +1,2 @@
 # DMS-X 
-Disaster management system 
+Disaster Management System
